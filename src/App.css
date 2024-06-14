@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background: lightcoral;
+  height: 100vh;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .App-logo {
@@ -23,6 +27,7 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
 
 .App-link {
   color: #61dafb;
